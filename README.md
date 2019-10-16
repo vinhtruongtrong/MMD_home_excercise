@@ -8,3 +8,8 @@
 3- Chạy được thư viện node2vector trên bộ dữ liệu Karate  [https://snap.stanford.edu/node2vec/](https://snap.stanford.edu/node2vec/) Gửi source code chạy về email của Thầy  
 
 4- Viết code trực quan hóa dữ liệu (Sử dụng thư viện mã nguồn mở open tSNE) [https://github.com/pavlin-policar/openTSNE](https://github.com/pavlin-policar/openTSNE)
+
+Install all essential packages
+```
+pip install -r requirements.txt
+```
