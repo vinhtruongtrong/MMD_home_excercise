@@ -8,9 +8,6 @@ class Graph:
 		self. ROW = len(graph) 
 		self.COL = len(graph[0]) 
 
-
-	'''Returns true if there is a path from source 's' to sink 't' in 
-	residual graph. Also fills parent[] to store the path '''
 	def BFS(self,s, t, parent): 
 		visited =[False]*(self.ROW) 
 		queue=[] 
